@@ -6,4 +6,4 @@
 
 ### Contribute & Open Sourse
 
-**[Server](https://github.com/SlimeVR/SlimeVR-Server) | [Firmware](https://github.com/SlimeVR/SlimeVR-Tracker-ESP) | [Protocol](https://github.com/SlimeVR/SolarXR-Protocol) | [Documentation](https://github.com/SlimeVR/SlimeVR-Docs-Site)**
+**[Server](https://github.com/SlimeVR/SlimeVR-Server) | [Firmware](https://github.com/SlimeVR/SlimeVR-Tracker-ESP) | [Protocol](https://github.com/SlimeVR/SolarXR-Protocol) | [Documentation](https://github.com/SlimeVR/SlimeVR-Docs-Site) | [OpenVR Driver](https://github.com/SlimeVR/SlimeVR-OpenVR-Driver)**
