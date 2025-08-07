@@ -1,6 +1,6 @@
 ## SlimeVR
 
-**SlimeVR Full-Body Tracking** is a set of open hardware sensors and open source software that facilitates full-body tracking (FBT) for Virtual Reality, VTubing and Motion Capture. SlimeVR FBT is designed to require no base stations, be affordable, comfortable and open.
+**SlimeVR Full-Body Tracking** is a set of open hardware sensors and open-source software that facilitates full-body tracking (FBT) for Virtual Reality, VTubing, and Motion Capture. SlimeVR FBT is designed to require no base stations, be affordable, comfortable, and open.
 
 **[Buy Original Trackers](https://slimevr.dev/buy) | [Build Your Own](https://docs.slimevr.dev/diy/index.html) | [Download Server](https://slimevr.dev/download)  | [Website](https://slimevr.dev) | [Documentation](https://docs.slimevr.dev) | [Join Discord](https://slimevr.dev/discord) | [Shop Parts](https://shop.slimevr.dev)**
 
